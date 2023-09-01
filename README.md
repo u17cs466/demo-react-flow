@@ -1,2 +1,2 @@
-# demo-react-flow
+# diagram
 Created with CodeSandbox
